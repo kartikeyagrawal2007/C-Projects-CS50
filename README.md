@@ -1,70 +1,73 @@
-# CS50 C Projects
+# CS50x – Harvard University's Introduction to Computer Science
 
-> A collection of projects completed while studying Harvard's CS50: Introduction to Computer Science.
+![CS50](https://img.shields.io/badge/CS50x-Harvard%20University-red)
+![Language: C](https://img.shields.io/badge/Language-C-blue)
+![Language: Python](https://img.shields.io/badge/Language-Python-yellow)
+![Language: SQL](https://img.shields.io/badge/Language-SQL-lightgrey)
+![Language: JavaScript](https://img.shields.io/badge/Language-JavaScript-orange)
 
-This repository documents my journey through CS50, where I developed a strong foundation in computer science, problem-solving, algorithms, and low-level programming using C.
+## 🎓 Course Overview
+CS50x is Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. It teaches students how to think algorithmically and solve problems efficiently.
+
+## 🛠️ Technologies Learned
+- **C**: Memory management, pointers, and fundamental data structures.
+- **Python**: Scripting, dynamic programming, and web backend development.
+- **SQL**: Database design, querying, and management.
+- **HTML, CSS, JavaScript**: Front-end web development.
+- **Flask**: Web framework for building dynamic applications.
+
+## 📚 Topics Covered
+- Abstraction & Algorithms
+- Data Structures (Arrays, Linked Lists, Hash Tables, Tries)
+- Encapsulation & Resource Management
+- Security & Software Engineering
+- Web Development
+
+## 🗓️ Week-by-Week Summary
+
+| Week | Topic | Assignments / Projects |
+| :---: | :--- | :--- |
+| **0** | Scratch | Scratch Project (Interactive Animation/Game) |
+| **1** | C | Hello, Mario, Cash/Credit |
+| **2** | Arrays | Scrabble, Readability, Caesar/Substitution |
+| **3** | Algorithms | Sort, Plurality, Runoff/Tideman |
+| **4** | Memory | Volume, Filter, Recover |
+| **5** | Data Structures | Inheritance, Speller |
+| **6** | Python | Sentimental (Hello, Mario, Cash, Readability), DNA |
+| **7** | SQL | Songs, Movies, Fiftyville |
+| **8** | HTML, CSS, JavaScript | Trivia, Homepage |
+| **9** | Flask | Birthdays, Finance |
+
+## 💡 Skills Gained
+- Low-level memory manipulation and algorithm design.
+- Full-stack web application development.
+- Proficiency in debugging and systematic problem-solving.
+- Database architecture and query optimization.
+- Version control and collaborative development using Git and GitHub.
+
+## 🏆 Certificate
+I have successfully completed all the requirements for this course. You can view my completion certificate in the `Certificate/` directory of this repository:
+[View Certificate](Certificate/CS50x_certificate.pdf)
+
+## 📁 Repository Structure
+```text
+├── Week0/         # Scratch
+├── Week1/         # C Fundamentals
+├── Week2/         # Arrays & Cryptography
+├── Week3/         # Algorithms & Sorting
+├── Week4/         # Memory & File I/O
+├── Week5/         # Data Structures
+├── Week6/         # Python Programming
+├── Week7/         # SQL & Databases
+├── Week8/         # Web Development (HTML/CSS/JS)
+├── Week9/         # Flask Framework
+└── Certificate/   # Course Completion Certificate
+```
+
+## 🚀 Final Project
+For my final project, I built **FoodBridge**, a comprehensive web application. 
+Check out the dedicated repository for my final project here: 
+👉 [FoodBridge Repository](https://github.com/kartikeyagrawal2007/FoodBridge)
 
 ---
-
-## Technologies & Concepts
-
-- C Programming
-- Algorithms
-- Data Structures
-- Memory Management
-- File I/O
-- Command-Line Programming
-- Debugging & Testing
-- Computational Thinking
-
----
-
-## Projects
-
-| Project | Description |
-|----------|------------|
-| Caesar | Encryption and substitution cipher implementation |
-| Credit | Credit card validation using checksum algorithms |
-| Filter-Less | Image processing and pixel manipulation |
-| Mario-More | Pattern generation and loop-based problem solving |
-| Me | Personal CS50 exercise |
-| Plurality | Election simulation using plurality voting |
-| Readability | Text analysis and readability scoring |
-| Recover | Recovery of deleted JPEG files from memory |
-| Runoff | Runoff election simulation |
-| Scrabble | Word scoring system inspired by Scrabble |
-| Volume | Audio processing and volume manipulation |
-
----
-
-## What I Learned
-
-Through these projects, I gained practical experience with:
-
-- Writing efficient C programs
-- Working with arrays, strings, and pointers
-- Implementing searching and sorting techniques
-- Understanding memory allocation
-- Processing files and binary data
-- Building command-line applications
-- Developing problem-solving skills through real-world programming challenges
-
----
-
-## About CS50
-
-CS50 is Harvard University's flagship introduction to Computer Science course, covering programming fundamentals, algorithms, data structures, software engineering principles, and computational thinking.
-
----
-
-## Author
-
-**Kartikey Agrawal**
-
-Data Science Undergraduate | Software Development | AI & Machine Learning Enthusiast
-
-GitHub: https://github.com/kartikeyagrawal2007
-
----
-
-*"The best way to learn computer science is by building."*
+*This repository contains my personal solutions to the problem sets and labs for CS50x. Please adhere to the course's Academic Honesty policy.*
