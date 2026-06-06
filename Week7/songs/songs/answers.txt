@@ -1,0 +1,3 @@
+1. Based on the average danceability, energy, and valence of the songs, the listener’s audio aura appears energetic, upbeat, and positive.
+
+2. This method may not accurately represent the listener because it only uses averages and ignores factors such as listening frequency, changes in mood over time, and genre diversity. A better approach would weight songs by play count, consider listening habits throughout the year, and include additional audio features such as acousticness, loudness, and speechiness.
